@@ -1,0 +1,11 @@
+# Site settings
+title: My music log
+email: badatcounting@gmail.com
+description: "Attempts at music, featuring friends"
+baseurl: "/musiclog"
+url: "http://badatcounting.github.io/musiclog"
+username: badatcounting
+
+# Build settings
+markdown: kramdown
+permalink: pretty
