@@ -7,7 +7,7 @@ date:   2011-02-07
 This is the first song I made using my Eleven Rack and Pro Tools 8 LE.
 
 <script type="text/javascript">
-  var filename = "Zero or One I'm Bad at Counting - Experiments - 01 -  Ringtone for a Hero";
+  var filename = "Zero or One I'm Bad at Counting - Experiments - 01 -  Ringtone for a Hero.mp3";
   var path = "{{ "/music/" | prepend: site.baseurl }}" + filename;
 </script>
 
