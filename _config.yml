@@ -9,4 +9,4 @@ username: badatcounting
 # Build settings
 markdown: kramdown
 permalink: pretty
-paginate: 5
+paginate: 3
