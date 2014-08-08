@@ -23,3 +23,8 @@ Few and Far Between
 
 This project includes me and a friend who writes the lyrics, sings the songs and plays the bass.
 We have also had several other temporary members, since 2007.
+
+Android killed the Litchi
+-------------------------
+
+My friend, who also plays guitar, and I meet up on a Saturday or Sunday and attempt to write, record and finish a song on the day.  We choose a genre or a band from the 1960s - 1990s, which has some guitar, and try to write a new song in that style. This typically takes about 5 hours.
