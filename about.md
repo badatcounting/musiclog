@@ -28,3 +28,10 @@ Android killed the Litchi
 -------------------------
 
 My friend, who also plays guitar, and I meet up on a Saturday or Sunday and attempt to write, record and finish a song on the day.  We choose a genre or a band from the 1960s - 1990s, which has some guitar, and try to write a new song in that style. This typically takes about 5 hours.
+
+Post Post
+---------
+
+Post Rock is our goal.  My guitar player friend and I try to write, record and complete a song in 4 to 5 hours.  Post Rock is an instrumental style of music, examples of bands include: God is an Astronaut and Maybe She Will.  Whenever you hear any shredding, that is not me playing the guitar, that is my friend muhaha!
+
+
