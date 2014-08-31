@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Geknakte Wegwyser - Ars Poetica (Belydenis)"
-date:   2014-01-03
+date:   2014-03-01
 ---
 
 Another Afrikaans poem with some music.
