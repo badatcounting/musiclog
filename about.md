@@ -34,4 +34,12 @@ Post Post
 
 Post Rock is our goal.  My guitar player friend and I try to write, record and complete a song in 4 to 5 hours.  Post Rock is an instrumental style of music, examples of bands include: God is an Astronaut and Maybe She Will.  Whenever you hear any shredding, that is not me playing the guitar, that is my friend muhaha!
 
+Geknakte Wegwyser
+-----------------
 
+My friend reads poems and short stories, most of which are written by him. I make the music with some creative input from him.  Most the poems are Afrikaans, but he is not limited to just one language. We typically record and make the music in 4 to 5 hours.  Ek dink ons kry 'n redelike unieke resultaat.
+
+Totally Indie
+-------------
+
+We wrote about 5 songs in 2008 on which we recorded nothing.  This was about a superhero who did not need to eat anything and had unlimited energy.  He was totally independant, but he also did not have any bad guys to fight.
