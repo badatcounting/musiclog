@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Post Post - I still remember when piano was cool"
+title:  "Post Post - Pianos were made for Percussion"
 date:   2014-08-09
 ---
 
 This song has got my brain firing on all cylinders.
 
 <script type="text/javascript">
-  var filename = "Post Post - Nostalgia - 03 -  I still remember when piano was cool.mp3";
+  var filename = "Post Post - Nostalgia - 03 - Pianos were made for Percussion.mp3";
   var path = "{{ "/music/" | prepend: site.baseurl }}" + filename;
 </script>
 

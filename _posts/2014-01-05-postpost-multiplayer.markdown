@@ -7,7 +7,7 @@ date:   2014-01-05
 Interestingly a midi bass with distortion, playing very short notes, sounds a lot like an 8-bit instrument.
 
 <script type="text/javascript">
-  var filename = "Post Post - Nostalgia - 01 -  Multiplayer.mp3";
+  var filename = "Post Post - Nostalgia - 05 - Multiplayer.mp3";
   var path = "{{ "/music/" | prepend: site.baseurl }}" + filename;
 </script>
 
